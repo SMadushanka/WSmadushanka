@@ -1,7 +1,7 @@
 ## Hello there 🌊 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sampathmadushanka/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sampath-madushanka-44b86b281/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@wijamu.maduu22)  [![](https://visitcount.itsvg.in/api?id=Sampath-Madushanka&icon=2&color=12)](https://visitcount.itsvg.in)
 
 ## I'm Sampath Madushanka Wedaarachchi, a passionate software engineering student with expertise in web development. 
-<img src="https://medium.com/thousandeyes-engineering/internship-series-my-journey-of-growth-and-learning-b5ec8e1e334e" alt="My Image">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flevelup.gitconnected.com%2F5-steps-guide-to-surviving-a-code-review-as-a-software-engineer-30867996688c&psig=AOvVaw2m2qUZ4WV0vEBuSB6tr0tX&ust=1743682561877000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDtpfapuYwDFQAAAAAdAAAAABAg" alt="My Image">
 
 I enjoy building robust and scalable stand-alone systems, web applications, creating intuitive user interfaces, and solving complex problems with elegant solutions.
   Software Engineering Student @IJSE, I'm  currently studying advanced API Development for cross-platform web application development.<br><br>
