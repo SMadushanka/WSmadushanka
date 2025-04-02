@@ -1,7 +1,7 @@
 ## Hello there 🌊 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sampathmadushanka/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sampath-madushanka-44b86b281/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@wijamu.maduu22)  [![](https://visitcount.itsvg.in/api?id=Sampath-Madushanka&icon=2&color=12)](https://visitcount.itsvg.in)
 
 ## I'm Sampath Madushanka Wedaarachchi, a passionate software engineering student with expertise in web development. 
-<img src="" alt="My Image">
+<img align="center" alt="Coding" width="1064" src="https://i.pinimg.com/originals/20/c6/58/20c658e4c375268eed59d1c94b61059f.gif" />
 
 I enjoy building robust and scalable stand-alone systems, web applications, creating intuitive user interfaces, and solving complex problems with elegant solutions.
   Software Engineering Student @IJSE, I'm  currently studying advanced API Development for cross-platform web application development.<br><br>
